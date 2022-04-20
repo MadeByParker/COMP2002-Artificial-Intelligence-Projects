@@ -1,0 +1,14 @@
+split text file
+
+split each line
+
+generate timetable with a lecture and n practicals
+
+count constraints
+
+
+fitness
+
+hillcilmber
+
+
