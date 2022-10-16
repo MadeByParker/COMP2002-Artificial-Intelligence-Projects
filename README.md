@@ -1,5 +1,7 @@
 ## This is the repository for the COMP2002 Artificial Intelligence Module
 
+Results: 83/100
+
 ## Part 1
 
 ### Machine Learning
